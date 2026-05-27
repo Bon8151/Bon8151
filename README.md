@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/Bon8151" target="blank">
+<a href="https://github.com/Bonny2004" target="blank">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
